@@ -1,4 +1,4 @@
-# Azure Resource Organization and Resource Groups Project
+# Azure Resource Organisation and Resource Groups Project
 
 ## Overview
 
